@@ -5,4 +5,5 @@ Clone xong rồi,....
 
 Ex2_LinearLayout
 
- ![Screenshot (1)](https://github.com/Linh169/63130655-JavaProgramming/assets/135191352/b4493db0-5f72-45bd-81f0-fe959a2b3a3a)
+![image](https://github.com/Linh169/63130655-JavaProgramming/assets/135191352/b8cda4e2-8731-4aa9-afa2-33a3f44edf73)
+
